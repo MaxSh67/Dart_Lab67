@@ -1,3 +1,3 @@
 void main(){
-List<String> fruits = ['яблоко']
+List<String> fruits = ['яблоко'];
 }
